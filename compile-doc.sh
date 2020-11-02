@@ -7,7 +7,7 @@ FILE="${BASEDIR}/report.md"
 
 if [[ "$(uname)" == "Linux" ]]
 then
-  FONT=ukai.ttc
+  FONT=MoeStandardKai.ttf
   MONOFONT="DejaVu Sans Mono"
 else
   FONT=DFKai-SB
